@@ -1,119 +1,120 @@
-# 👨‍💻 Full-Stack Mobile Developer
+# Jean Vicente
 
-Desenvolvedor especializado em aplicativos mobile multiplataforma com Flutter/Dart e backend Node.js.
+### Welcome to my profile 👋
 
-## 🛠️ Stack Principal
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250">
+</p>
 
-### **Mobile Development**
-- 📱 **Flutter & Dart** - Desenvolvimento multiplataforma (Android/iOS)
-- 🗺️ **Google Maps SDK** - Mapas interativos, navegação GPS, geolocalização
-- 🎨 **UI/UX** - Material Design, custom widgets, layouts responsivos
-- 💾 **State Management** - Provider, lifecycle management
-- 🔔 **Features** - TTS (Text-to-Speech), image picker, local notifications
+- �‍💻 I am **Jean Vicente** and I am a **Full-Stack Mobile Developer**
+- 📱 Specialized in **Flutter/Dart** and **Node.js** backend development
+- 🗺️ Building location-based apps with **GPS navigation** and **Google Maps API**
+- 🚀 Currently working on **POSTUL** - Gas station finder with real-time navigation
 
-### **Backend Development**
-- 🟢 **Node.js & Express** - REST APIs escaláveis
-- 🐘 **PostgreSQL** - Design e otimização de bancos relacionais
-- 🔐 **Authentication** - JWT tokens, bcrypt, autenticação segura
-- 🗺️ **External APIs** - Google Maps Services (Directions, Places, Geolocation)
-- 📧 **Services** - Email (Nodemailer), file processing (CSV/XLSX)
+### 🛠️ Tech Stack:
 
-### **DevOps & Tools**
-- 🐳 **Docker** - Containerização com Docker Compose
-- 🔧 **Git/GitHub** - Controle de versão, CI/CD
-- 📱 **Android Studio** - Build, debug, deploy
-- ☁️ **Google Cloud Platform** - API management, quotas, billing
-- 🔐 **Security** - API key restrictions, keystore management
+<p align="left">
 
-## 🎯 Experiência em
+**Mobile Development:**
 
-✅ Sistemas de navegação GPS em tempo real  
-✅ Integração com APIs de mapas (Google Maps SDK)  
-✅ Arquitetura limpa com separação de camadas  
-✅ Gerenciamento de estado (Provider, setState)  
-✅ Text-to-Speech (TTS) para navegação por voz  
-✅ Autenticação JWT e proteção de rotas  
-✅ Memory leak prevention e otimização de performance  
-✅ Deploy com Docker e automação  
-✅ Publicação na Play Store (AAB/APK)  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=fff)
+![Google Maps](https://img.shields.io/badge/-Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=fff)
 
-## 🚀 Projeto Destaque: POSTUL
+**Backend & Database:**
 
-**Aplicativo mobile de localização de postos de combustível com navegação GPS**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=fff)
 
-### **🎯 Funcionalidades**
-- 🗺️ Mapa interativo com Google Maps SDK
-- 📍 Geolocalização em tempo real
-- 🧭 Navegação GPS com 4 tipos de rota (rápida, sem pedágio, sem rodovia, personalizada)
-- 🗣️ Navegação por voz (TTS) em português
-- 📊 Comparação de preços de combustíveis
-- ⭐ Sistema de favoritos
-- 🔐 Autenticação JWT completa
-- 📸 Upload de fotos de recibos
-- 💾 Cache inteligente para modo offline
+**DevOps & Tools:**
 
-### **🏗️ Arquitetura**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=fff)
+
+</p>
+
+<br />
+
+---
+
+## 🚀 Featured Project: POSTUL
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Play_Store_Ready-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Size-42.8_MB-blue?style=for-the-badge" alt="Size">
+  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" alt="Platform">
+</p>
+
+**Mobile app for finding gas stations with GPS navigation and price comparison**
+
+### ✨ Key Features:
+- 🗺️ Interactive map with Google Maps SDK
+- 📍 Real-time geolocation
+- 🧭 GPS navigation with 4 route types (fast, toll-free, highway-free, custom)
+- 🗣️ Voice navigation (TTS) in Portuguese
+- 📊 Fuel price comparison
+- ⭐ Favorites system
+- 🔐 JWT authentication
+- 📸 Receipt photo upload
+- 💾 Smart offline cache
+
+### 🏗️ Architecture:
 ```
-Frontend (Flutter/Dart)
-├── 15+ telas customizadas
-├── 8+ services (Auth, Maps, Navigation, Cache, etc.)
-├── Widgets reutilizáveis
-└── Provider para state management
-
-Backend (Node.js + Express)
-├── REST API completa
-├── PostgreSQL (8+ tabelas)
-├── Proxy para Google Maps APIs
-├── Upload e processamento de arquivos
-└── Sistema de autenticação JWT
-
-Infrastructure
-├── Docker Compose
-├── DDNS configuration
-├── Google Cloud API management
-└── GitHub Pages (privacy policy)
+Frontend: Flutter/Dart (15+ screens, 8+ services)
+Backend:  Node.js + Express + PostgreSQL
+APIs:     Google Maps (Directions, Places, Geolocation)
+Deploy:   Docker Compose + DDNS
 ```
 
-### **📊 Métricas**
-- 📦 **APK/AAB**: 42.8 MB (otimizado com tree-shaking 99.2%)
-- 🏗️ **Código**: Clean architecture, modular, escalável
-- 🔐 **Segurança**: API key restrictions, SHA-1 certificates, JWT auth
-- 📚 **Documentação**: 8+ guias técnicos completos
-- ✅ **Status**: Pronto para Play Store
+### 🔐 Security:
+✅ API key restrictions  
+✅ SHA-1 certificates  
+✅ JWT + bcrypt authentication  
+✅ Memory leak prevention  
+✅ LGPD-compliant privacy policy  
 
-### **🔐 Segurança Implementada**
-- ✅ Proteção de API keys (restrictions por IP e aplicativo)
-- ✅ Budget alerts no Google Cloud (monitoramento de custos)
-- ✅ Autenticação real com backend (JWT + bcrypt)
-- ✅ Prevention de memory leaks (mounted checks)
-- ✅ Privacy policy em conformidade com LGPD
-- ✅ Keystore seguro para releases (10.000 dias de validade)
+---
 
-## 📈 Conquistas Recentes
+## � My GitHub Stats:
 
-🏆 **Play Store Ready** - App completo com todos os assets necessários  
-🔒 **Security Hardening** - Implementação robusta de segurança  
-🗺️ **Complex Navigation** - Sistema de navegação com algoritmo A*  
-⚡ **Performance** - Otimizações avançadas (cache, lazy loading, tree-shaking)  
-📖 **Documentation** - Guias técnicos completos em português  
-🐛 **Bug Fixes** - Correção de vulnerabilidades críticas (login, memory leaks)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jean737&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" alt="Jean's GitHub Stats" />
+</p>
 
-## 🌐 Links
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean737&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+</p>
 
-- 🔗 **Repositório**: [a-labs-devs/postul](https://github.com/a-labs-devs/postul)
-- 📄 **Privacy Policy**: [postul/privacy-policy](https://a-labs-devs.github.io/postul/privacy-policy.html)
-- 📱 **Play Store**: Em breve
+---
 
-## 💼 Disponível Para
+## 🌐 Links:
 
-- 📱 Desenvolvimento de apps mobile (Flutter/Android/iOS)
+[![Repository](https://img.shields.io/badge/Repository-POSTUL-blue?style=for-the-badge&logo=github)](https://github.com/a-labs-devs/postul)
+[![Privacy Policy](https://img.shields.io/badge/Privacy-Policy-green?style=for-the-badge&logo=shield)](https://a-labs-devs.github.io/postul/privacy-policy.html)
+[![Play Store](https://img.shields.io/badge/Play_Store-Coming_Soon-orange?style=for-the-badge&logo=google-play)](https://play.google.com)
+
+---
+
+## 💼 Available For:
+
+- 📱 Mobile app development (Flutter/Android/iOS)
 - 🗄️ Backend APIs (Node.js + PostgreSQL)
-- 🗺️ Projetos com geolocalização e mapas
-- 🔐 Implementação de segurança e autenticação
-- 🐳 DevOps e containerização
-- 📚 Documentação técnica
+- 🗺️ Location-based projects with maps integration
+- 🔐 Security & authentication implementation
+- 🐳 DevOps & containerization
+- 📚 Technical documentation
 
-## 📫 Contato
+## 📫 Contact:
 
-💬 Interessado em colaborar? Entre em contato!  
-🎯 Especializado em apps com integrações complexas e alta performance
+💬 Interested in collaboration? Let's connect!  
+🎯 Specialized in complex integrations and high-performance apps
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jean737&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
