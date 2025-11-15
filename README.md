@@ -8,8 +8,10 @@
 
 - 👨‍💻 I am **Jean Vicente** and I am a **Full-Stack Mobile Developer**
 - 📱 Specialized in **Flutter/Dart** and **Node.js** backend development
-- 🌐 Building modern web apps with **HTML5**, **CSS3**, and **JavaScript**
+- 🌐 Building modern web apps with **HTML5**, **CSS3**, **JavaScript**, **Vue.js**, and **TypeScript**
+- 🎨 Creating responsive interfaces with **Tailwind CSS**
 - 🗺️ Building location-based apps with **GPS navigation** and **Google Maps API**
+- 🐍 Automating tasks and building backends with **Python**
 - 🚀 Currently working on **POSTUL** - Gas station finder with real-time navigation
 
 ### 🛠️ Tech Stack:
@@ -28,15 +30,19 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=fff)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=fff)
 
 **Backend & Database:**
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=fff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![DBeaver](https://img.shields.io/badge/-DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=fff)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=fff)
 
 **DevOps & Tools:**
 
@@ -81,6 +87,7 @@ Frontend: Flutter/Dart (15+ screens, 8+ services)
 Backend:  Node.js + Express + PostgreSQL
 APIs:     Google Maps (Directions, Places, Geolocation)
 Deploy:   Docker Compose + DDNS
+Tools:    DBeaver for database management
 ```
 
 #### 🔐 Security:
@@ -147,6 +154,64 @@ Design:     Mobile-first responsive (breakpoints: 768px, 480px)
 
 ---
 
+### 🏥 White Label - Health Insurance Landing Page
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Type-White_Label_Template-blue?style=for-the-badge" alt="Type">
+  <img src="https://img.shields.io/badge/Tech-Next.js_+_TypeScript-black?style=for-the-badge&logo=next.js" alt="Tech">
+</p>
+
+**Professional white label landing page with 20+ conversion optimization features**
+
+#### ✨ Key Features:
+- 🎯 **18 Conversion Tools** - Exit intent popup, countdown timer, floating CTA, social proof notifications
+- 🧮 **Interactive Calculator** - Dynamic pricing based on age, dependents, and location
+- 💳 **Coupon System** - Validates multiple discount codes with percentage/fixed values
+- ⭐ **Review System** - Star ratings, filters, and verified customer testimonials
+- 📱 **PWA Support** - Installable as native app with offline capabilities
+- 🎨 **Tailwind CSS** - Fully responsive design with modern UI components
+- 📊 **Analytics Ready** - Google Analytics, Facebook Pixel, Schema.org integration
+- 🗄️ **JSON-Based Content** - Easy customization without touching code
+
+#### 🏗️ Tech Stack:
+```
+Frontend:    Next.js 16 + TypeScript 5.9 + React 19
+Styling:     Tailwind CSS 3.4 (mobile-first)
+Analytics:   Google Analytics + Facebook Pixel
+SEO:         Schema.org JSON-LD structured data
+PWA:         Service Worker + Web Manifest
+Database:    PostgreSQL (via DBeaver management)
+Deploy:      Vercel (auto-deploy from GitHub)
+```
+
+#### 📦 Components (26 total):
+- **Landing**: Hero, Plans, Calculator, Comparison Table
+- **Conversion**: Countdown Timer, Exit Intent, Floating CTA, Coupons
+- **Social Proof**: Live notifications, Reviews, Testimonials, Trust Badges
+- **Content**: FAQ Accordion, Blog Preview, Newsletter
+- **Systems**: ERP Dashboard, CRM Management
+
+#### 🎯 Features Implemented:
+✅ TypeScript 100% type-safe  
+✅ Server-side rendering (SSR)  
+✅ Lazy loading & code splitting  
+✅ Centralized configuration file  
+✅ 4 comprehensive documentation guides  
+✅ Environment variables template  
+✅ Dark mode ready structure  
+
+#### 📚 Documentation:
+- **QUICKSTART.md** - Deploy in 5 steps (15 minutes)
+- **CUSTOMIZATION_GUIDE.md** - Complete personalization guide
+- **DOCUMENTATION.md** - Technical reference
+- **README.md** - Project overview
+
+[![Repository](https://img.shields.io/badge/Repository-White_Label-blue?style=for-the-badge&logo=github)](https://github.com/a-labs-devs/site-whitelabel)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://white-label-4zv1ce55y-jbiersack87-1007s-projects.vercel.app)
+
+---
+
 ## 📊 My GitHub Stats:
 
 <p align="center">
@@ -162,20 +227,23 @@ Design:     Mobile-first responsive (breakpoints: 768px, 480px)
 ## 💼 Available For:
 
 - 📱 Mobile app development (Flutter/Android/iOS)
-- 🌐 Responsive web applications (HTML/CSS/JavaScript)
-- 🗄️ Backend APIs (Node.js + PostgreSQL)
+- 🌐 Modern web applications (Vue.js/TypeScript/Next.js)
+- 🎨 Responsive UI/UX with Tailwind CSS
+- 🗄️ Backend APIs (Node.js/Python + PostgreSQL)
 - 📊 Data visualization and interactive dashboards
 - 🗺️ Location-based projects with maps integration
 - 🔐 Security & authentication implementation
 - 🐳 DevOps & containerization
 - 📚 Technical documentation
 - 🎓 Educational platform development
+- 🏷️ White label solutions and templates
 
 ## 📫 Contact:
 
 💬 Interested in collaboration? Let's connect!  
 🎯 Specialized in complex integrations and high-performance apps  
-📧 Available for freelance and full-time opportunities
+📧 Available for freelance and full-time opportunities  
+🚀 Ready to build scalable, production-ready solutions
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jean737&color=blueviolet&style=for-the-badge" alt="Profile views" />
