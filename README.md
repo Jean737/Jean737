@@ -50,7 +50,13 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=fff)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=fff)
 ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=fff)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)
+![PM2](https://img.shields.io/badge/-PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=fff)
+![Google Cloud](https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=fff)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=fff)
+![PM2](https://img.shields.io/badge/-PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=fff)
 
 </p>
 
@@ -182,7 +188,9 @@ Analytics:   Google Analytics + Facebook Pixel
 SEO:         Schema.org JSON-LD structured data
 PWA:         Service Worker + Web Manifest
 Database:    PostgreSQL (via DBeaver management)
-Deploy:      Vercel (auto-deploy from GitHub)
+Deploy:      AWS EC2 + PM2 + Nginx (Production)
+             Vercel (Staging/Preview)
+Container:   Docker + Docker Compose
 ```
 
 #### 📦 Components (26 total):
@@ -202,10 +210,19 @@ Deploy:      Vercel (auto-deploy from GitHub)
 ✅ Dark mode ready structure  
 
 #### 📚 Documentation:
+- **AWS_EC2_SETUP.md** - Complete EC2 deployment guide (Step-by-step)
+- **AWS_DEPLOYMENT.md** - 4 AWS deployment options comparison
 - **QUICKSTART.md** - Deploy in 5 steps (15 minutes)
 - **CUSTOMIZATION_GUIDE.md** - Complete personalization guide
 - **DOCUMENTATION.md** - Technical reference
 - **README.md** - Project overview
+
+#### 🚀 Deployment:
+- **Production**: AWS EC2 t2.micro + PM2 + Nginx
+- **Automation**: PowerShell script for one-command deploy
+- **Container**: Docker multi-stage build ready
+- **CI/CD**: GitHub integration with automated deployment
+- **Cost**: ~$10/month (Free tier available for 12 months)
 
 [![Repository](https://img.shields.io/badge/Repository-White_Label-blue?style=for-the-badge&logo=github)](https://github.com/a-labs-devs/site-whitelabel)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel)](https://white-label-4zv1ce55y-jbiersack87-1007s-projects.vercel.app)
