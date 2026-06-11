@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="250">
 </p>
 
-- 👨‍💻 I am **Jean Vicente** and I am a **Full-Stack Mobile Developer**
+- 👨‍💻 I am **Jean Vicente** and I am a **Full-Stack & Mobile Developer**
 - 📱 Specialized in **Flutter/Dart** and **Node.js** backend development
 - 🌐 Building modern web apps with **HTML5**, **CSS3**, **JavaScript**, **Vue.js**, and **TypeScript**
 - 🎨 Creating responsive interfaces with **Tailwind CSS**
