@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="banner.png" alt="Jean Vicente — Full Stack Developer" width="100%">
+  <a href="https://www.linkedin.com/in/jean-vicente-aa844720b/">
+    <img src="banner.png" alt="Jean Vicente — Full Stack Developer · clique para abrir o LinkedIn" width="100%">
+  </a>
 </p>
 
 <p align="center">
@@ -22,22 +24,8 @@ testes, publicação e sustentação.
 Oito aplicações web e mobile em produção, com **303 commits de autoria própria** no
 histórico da organização.
 
-### Stack
-
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=1a1a1a">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white">
+<p align="center">
+  <img src="skills.svg" alt="Core Skills: TypeScript, Node.js, NestJS, React, Next.js, Vue.js, Flutter, Kotlin, Python, PostgreSQL, Prisma, Docker, AWS, CI/CD, Git" width="100%">
 </p>
 
 ### Projetos
