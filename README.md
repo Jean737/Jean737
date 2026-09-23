@@ -36,10 +36,3 @@ histórico da organização.
 | **Postul** | App de localização de postos de combustível com comparação de preços e rotas | Flutter · Supabase · Google Maps |
 | **EU ESTOU VIVO** | App de segurança pessoal com check-in periódico e acionamento de contatos de emergência | Flutter · FastAPI · PostgreSQL · Twilio |
 | **NOBET** | App Android nativo de bloqueio de conteúdo de apostas, com serviço em segundo plano | Kotlin · Jetpack Compose · Room · Hilt |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jean737&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A4FF&icon_color=C9A4FF" alt="Estatísticas do GitHub" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jean737&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C9A4FF" alt="Linguagens mais usadas" height="165">
-</p>
